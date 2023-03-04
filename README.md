@@ -6,7 +6,7 @@
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    border-radius : 4% "
+    border-radius : 4%; "
      />
 
 ## Introduction
