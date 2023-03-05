@@ -8,12 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SamplesResources/Scenes/0-Splash.unity
     guid: 7238041e8d31f4d439b8851a5d4bb6fa
-  - enabled: 0
+  - enabled: 1
     path: Assets/SamplesResources/Scenes/2-Loading.unity
     guid: 22b8f383624ec49ef986b9155d212ac1
   - enabled: 1
     path: Assets/Editor/scenes/marker less/1-Menu.unity
     guid: 3b9554c725995b44dadd5089a83a492b
+  - enabled: 1
+    path: Assets/Editor/scenes/viewall.unity
+    guid: f00cd795b87af9047aeac293d183766e
   - enabled: 0
     path: Assets/SamplesResources/Scenes/3-CloudReco.unity
     guid: e434bc354d6d54b899b4fbf77b3118a3
@@ -23,6 +26,51 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Editor/scenes/marker less/3-GroundPlane.unity
     guid: bb0581d54f59940a2932e9d2ccd368c6
+  - enabled: 1
+    path: Assets/Editor/furniture scene/productpage/pp1.unity
+    guid: 49a0ca3f8ffac124285f7d0177a42e2b
+  - enabled: 1
+    path: Assets/Editor/furniture scene/productpage/pp1 1.unity
+    guid: a9e8b9ee3fc3e284cb76959d0c375d00
+  - enabled: 1
+    path: Assets/Editor/furniture scene/productpage/pp1 2.unity
+    guid: a244125675ccc88429e70a74142494fb
+  - enabled: 1
+    path: Assets/Editor/furniture scene/productpage/pp1 3.unity
+    guid: fe45decd17c2f094f9d1dcf92f5e55c7
+  - enabled: 1
+    path: Assets/Editor/furniture scene/productpage/pp1 4.unity
+    guid: 0ee39a272d21b0544a8f2c50fa982c4d
+  - enabled: 1
+    path: Assets/Editor/furniture scene/productpage/pp1 5.unity
+    guid: baf9f28b141108e429eb44a001e7fa93
+  - enabled: 1
+    path: Assets/Editor/furniture scene/productpage/pp1 6.unity
+    guid: 4319d64360804a04db8edbe69b3fc139
+  - enabled: 1
+    path: Assets/Editor/furniture scene/productpage/pp1 7.unity
+    guid: 6823c32ee493cc041933934526f511fc
+  - enabled: 1
+    path: Assets/Editor/furniture scene/productpage/pp1 8.unity
+    guid: d0abefcb75f3d8144902be39a3fe4626
+  - enabled: 1
+    path: Assets/Editor/furniture scene/productpage/pp1 9.unity
+    guid: feb414fa5ac314b4da7c8b040e2b2347
+  - enabled: 1
+    path: Assets/Editor/furniture scene/productpage/pp1 10.unity
+    guid: 67ce50d3721db7c4dae349ced36939e5
+  - enabled: 1
+    path: Assets/Editor/furniture scene/productpage/pp1 11.unity
+    guid: d5cf796ca073f2a4fb4941f2672cfe93
+  - enabled: 1
+    path: Assets/Editor/furniture scene/productpage/pp1 12.unity
+    guid: 25cbc3abb2d6a204d8cc8a0f1de830ae
+  - enabled: 1
+    path: Assets/Editor/furniture scene/productpage/pp1 13.unity
+    guid: 071a61e096386b94fb472a7f878a3f9a
+  - enabled: 1
+    path: Assets/Editor/furniture scene/productpage/pp1 14.unity
+    guid: 1b204e57ecd6b5f45b50fcf61d40c877
   - enabled: 0
     path: Assets/SamplesResources/Scenes/3-MidAir.unity
     guid: 4576f77d2a2354874a494c56189a9e2a
@@ -56,4 +104,49 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/SamplesResources/Scenes/3-Barcodes.unity
     guid: a3102d51f16474e8986f86570e9bed1f
+  - enabled: 1
+    path: Assets/Editor/furniture scene/ar/1AR.unity
+    guid: d580a20a4cfc99a4ca7ab9e7776253d4
+  - enabled: 1
+    path: Assets/Editor/furniture scene/ar/1AR 1.unity
+    guid: 7e02bad853c1a924fbeabd3c9e9381c1
+  - enabled: 1
+    path: Assets/Editor/furniture scene/ar/1AR 2.unity
+    guid: 61589840ad9a21241ad3c5bb42936009
+  - enabled: 1
+    path: Assets/Editor/furniture scene/ar/1AR 3.unity
+    guid: f97cc5ba7caa6f441b485c876e2dbeb1
+  - enabled: 1
+    path: Assets/Editor/furniture scene/ar/1AR 4.unity
+    guid: 47fa7da19d4e29f4d82d14e5f7dd5c26
+  - enabled: 1
+    path: Assets/Editor/furniture scene/ar/1AR 5.unity
+    guid: d8fd915a6c0e32b46896f8af2ce111b4
+  - enabled: 1
+    path: Assets/Editor/furniture scene/ar/1AR 6.unity
+    guid: fbad41aa604e4b647a5f0c25a25ffe6b
+  - enabled: 1
+    path: Assets/Editor/furniture scene/ar/1AR 7.unity
+    guid: a5b951e6a100bc6479044881bfbb5ab8
+  - enabled: 1
+    path: Assets/Editor/furniture scene/ar/1AR 8.unity
+    guid: 13e0acfb595affb4b991c11b2664ebd8
+  - enabled: 1
+    path: Assets/Editor/furniture scene/ar/1AR 9.unity
+    guid: 9634c046593fdb74db86e770fc50b93e
+  - enabled: 1
+    path: Assets/Editor/furniture scene/ar/1AR 10.unity
+    guid: 0f3732bba185b21448f1d3d088bc9463
+  - enabled: 1
+    path: Assets/Editor/furniture scene/ar/1AR 11.unity
+    guid: e849de05ca07b3548826a350406276fe
+  - enabled: 1
+    path: Assets/Editor/furniture scene/ar/1AR 12.unity
+    guid: 87cf980eca7527b47b0af33fcadeabbe
+  - enabled: 1
+    path: Assets/Editor/furniture scene/ar/1AR 13.unity
+    guid: 3eee5e5ca19b77048a2d12f6fe1e1db3
+  - enabled: 1
+    path: Assets/Editor/furniture scene/ar/1AR 14.unity
+    guid: 12843eaafadd09d4ab720b4b161f75d7
   m_configObjects: {}
