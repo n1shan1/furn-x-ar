@@ -17,6 +17,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Editor/scenes/viewall.unity
     guid: f00cd795b87af9047aeac293d183766e
+  - enabled: 1
+    path: Assets/Editor/scenes/info.unity
+    guid: 2d20106197a0eb840a6adeb2aadbe103
+  - enabled: 1
+    path: Assets/Editor/scenes/profile.unity
+    guid: e5caf2702e462d542b3f9bc48ff8dde4
+  - enabled: 1
+    path: Assets/Editor/scenes/settings.unity
+    guid: 26fdd4f5fb5930841bad9ad645ea3825
   - enabled: 0
     path: Assets/SamplesResources/Scenes/3-CloudReco.unity
     guid: e434bc354d6d54b899b4fbf77b3118a3
