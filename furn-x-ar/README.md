@@ -1,13 +1,6 @@
 # Furn-X-Ar
 
-<img src="https://live.staticflickr.com/65535/52725281108_725384dcac_b.jpg"
-    alt="Furn-X-Ar Logo"
-    style="display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    border-radius : 4%; "
-/>
+<img alt="Furn-X-Ar Logo" src="https://live.staticflickr.com/65535/52725281108_725384dcac_b.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%; border-radius: 4%;">
 
 ## Introduction
 
@@ -33,6 +26,12 @@ The 3D models are being rendered in real time uisng C# scripting.
 
 
 Overall, the AR Furniture Application offers an engaging and efficient shopping experience for users, with the added benefit of visualization through AR technology. The purchasing and cart features provide a seamless experience for customers, further enhancing the app's appeal and value.
+
+## Video
+
+
+[Watch The Demo Video Here](https://youtu.be/5MBqGwDwqno)
+
 
 
 ## Tech Stack
@@ -77,9 +76,28 @@ The application's User Interface (UI) required further refinement to enhance its
 
 By refining the UI, users were able to more easily navigate through the application, find the products they were interested in, and make purchases. These improvements further advanced the development of the application, making it a more competitive player in the AR furniture application market.
 
+## Application
 
-## Overall Summary
+Download and try Our app from [here.](https://drive.google.com/file/d/1WXm-FzzOWnwPHqvR5_KA8e-m4vUoNjxD/view?usp=sharing)
+
+## Overall Summary and Important Links.
+
+### A word of caution.
+The application takes some time to load the AR models as the plane detection detects the plane around for some time abd builds the cache.
+
+### What's working and What's not!
 
 Up until now the basic UI and the AR model views are working properly. 
 
 Only thing which isnt functional is the "BUY NOW" option, as we havent implementd the same, and we are planning to do implement the same same real soon.
+
+### Links
+
+[Demo Video](https://youtu.be/5MBqGwDwqno)
+
+[Website](https://furnxar-b7d988.netlify.app/)
+
+[Presnentation Link](https://drive.google.com/file/d/1LGV0_GtlQKF8an-c9hHSs1SggHuOyxKu/view?usp=sharing) 
+
+[Presentation Link 2](https://www.canva.com/design/DAFcUhy_oSc/b4deN_SJQjSZNR_moPDhhA/view?utm_content=DAFcUhy_oSc&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton)
+
